@@ -1,0 +1,11 @@
+title: Auro 2 Discord Bot
+email: nebulaspace@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    An discord bot that is good for moderation, fun, customization and more.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://sillyaurora.github.io/Auro2/" # the base hostname & protocol for your site
+github_username:  sillyaurora
+
+# Build settings
+
+markdown: kramdown
